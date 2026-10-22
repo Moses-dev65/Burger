@@ -822,3 +822,11 @@ footer details[open] summary::after {
     .catering-panel, .press-feature { width: 100%; margin: 0; }
     .promotion-links { flex-direction: row; gap: 15px; }
 }
+
+.developer-details {
+    display: block;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px;
+}
